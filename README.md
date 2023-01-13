@@ -31,3 +31,6 @@ pip install quick-crawler carbon2
 - 提交网页数据时传入的用户ID需要是本人的用户ID，方便后面的数据管理，比如可以批量下载/删除某些特定用户的数据；
 - 提交每一份相关的数据（比如，单个网站的数据），需要设置一个唯一的标签Tag，这样可以区分不同用户下的不同类别数据；
 - 这里面上传的URL必须是唯一的，也就是说，如果系统已经存在URL了，则其他用户无法上传同一个网址的数据。
+
+# Credits
+This project is provided by Donghua Chen with MIT license. 
